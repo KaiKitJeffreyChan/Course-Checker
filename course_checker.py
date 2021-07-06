@@ -12,6 +12,7 @@ import os
 USER = config('USER_ID')
 PASS = config('PASS')
 TARGET_NUM = config('TARGET_NUMBER')
+AUTH = config('AUTH')
 
 driver = webdriver.Chrome(executable_path="Drivers/chromedriver")
 
@@ -54,7 +55,7 @@ while True:
     message = driver.find_element_by_xpath(
         '//*[@id="win0divDERIVED_REGFRM1_SS_MESSAGE_LONG$0"]/div').text
     if message != "Error: Available seats are reserved and you do not meet the reserve capacity criteria.":
-        client = Client(keys.account_sid, keys.auth_token)
+        client = Client(keys.account_sid, AUTH)
 
         message = client.messages.create(
             body="Your course has been selected!",
