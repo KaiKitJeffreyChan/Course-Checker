@@ -14,4 +14,4 @@ Make sure you modify the code if your course is in the winter term (lines 40 to 
 
 Edit: It worked!
 
-![](https://cdn.discordapp.com/attachments/490718985591980032/865435527841710131/image0.png)
+![CourseSelected!](https://user-images.githubusercontent.com/77026758/125888047-987c4f41-fe61-409b-9c18-a990237881ee.png)
