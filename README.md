@@ -12,3 +12,6 @@ Also, this script uses enviorment variables, create a .env file in the same dir 
 Make sure you modify the code if your course is in the winter term (lines 40 to 42) <br />
 
 
+Edit: It worked!
+
+![](https://cdn.discordapp.com/attachments/490718985591980032/865435527841710131/image0.png)
