@@ -14,4 +14,5 @@ Make sure you modify the code if your course is in the winter term (lines 40 to 
 
 Edit: It worked!
 
-![CourseSelected!](https://user-images.githubusercontent.com/77026758/125888047-987c4f41-fe61-409b-9c18-a990237881ee.png)
+![CourseSelected_30 (1)](https://user-images.githubusercontent.com/77026758/125888231-ee4cdb12-3ed8-4756-99ba-06967bea311e.png)
+
